@@ -6,6 +6,7 @@ version = "1.0.0"
 description = "Rust bindings for the IPAFAIR API."
 categories = ["external-ffi-bindings", "science"]
 keywords = ["argumentation", "frameworks", "AF", "IPAFAIR"]
+repository = "https://github.com/crillab/ipafair-sys"
 edition = "2021"
 build = "build.rs"
 
