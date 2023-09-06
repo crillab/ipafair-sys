@@ -1,7 +1,11 @@
 [package]
 authors = ["emmanuel lonca <lonca@cril.fr>"]
+license = "LGPL-3.0-or-later"
 name = "ipafair-sys"
-version = "0.1.0"
+version = "1.0.0"
+description = "Rust bindings for the IPAFAIR API."
+categories = ["external-ffi-bindings", "science"]
+keywords = ["argumentation", "frameworks", "AF", "IPAFAIR"]
 edition = "2021"
 build = "build.rs"
 
